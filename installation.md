@@ -30,7 +30,9 @@ pingpongcms new blog
 
 You may also install Pingpong CMS by issuing the Composer `create-project` command in your terminal:
 
+```
 composer create-project pingpongcms/pingpongcms --prefer-dist
+```
 
 ## Server Requirements
 
