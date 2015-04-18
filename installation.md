@@ -22,7 +22,7 @@ Make sure to place the `~/.composer/vendor/bin` directory in your `PATH` so the 
 
 Once installed, the simple `pingpongcms new` command will create a fresh Pingpong CMS installation in the directory you specify. For instance, `pingpongcms new blog` would create a directory named `blog` containing a fresh Pingpong CMS installation with all dependencies installed. This method of installation is much faster than installing via Composer:
 
-``
+```
 pingpongcms new blog
 ```
 
