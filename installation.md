@@ -36,7 +36,7 @@ composer create-project pingpongcms/pingpongcms --prefer-dist
 
 ## Server Requirements
 
-The Pingpong CMS framework has a few system requirements:
+The Pingpong CMS has a few system requirements:
 
 - PHP >= 5.4
 - Mcrypt PHP Extension
@@ -54,7 +54,7 @@ Pingpong CMS may require some permissions to be configured: folders within `stor
 
 ### Apache
 
-The framework ships with a `public/.htaccess` file that is used to allow URLs without `index.php`. If you use Apache to serve your Pingpong CMS application, be sure to enable the `mod_rewrite` module.
+The cms ships with a `public/.htaccess` file that is used to allow URLs without `index.php`. If you use Apache to serve your Pingpong CMS application, be sure to enable the `mod_rewrite` module.
 
 If the `.htaccess` file that ships with Pingpong CMS does not work with your Apache installation, try this one:
 
